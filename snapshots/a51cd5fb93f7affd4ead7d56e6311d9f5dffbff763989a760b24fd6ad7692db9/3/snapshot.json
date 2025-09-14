@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "wallet": {
+    "publicId": "a51cd5fb93f7affd4ead7d56e6311d9f5dffbff763989a760b24fd6ad7692db9",
+    "scheme": "sha256(salt||studentId)",
+    "saltPresent": true
+  },
+  "chainIndex": 3,
+  "prevChainHash": "sha256:9c1d02dfb04cf1e1b4d53b2715d9bce152a214766751e0b2814d560c54fb070a",
+  "leafHash": "sha256:e27a8bc38080f7b75035d9114e14e01c79fda60f04b212f627b0d3ad1140cf04",
+  "chainHash": "sha256:6f1cf0a9035953df6eac297c6e627eaefd4225befd140c373d19b47cbbf2b480",
+  "vcRef": "68c6c1a965cc347abebaa420",
+  "issuedAt": "2025-09-14T13:22:27.344Z"
+}
