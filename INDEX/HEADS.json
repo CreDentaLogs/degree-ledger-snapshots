@@ -3,5 +3,10 @@
     "chainIndex": 3,
     "chainHash": "sha256:6f1cf0a9035953df6eac297c6e627eaefd4225befd140c373d19b47cbbf2b480",
     "updatedAt": "2025-09-14T13:23:02.765Z"
+  },
+  "133155fd00e122235d56958ea4416daca12ebad7518e0bf9f84855eb93aac2e4": {
+    "chainIndex": 1,
+    "chainHash": "sha256:a3a7e4df921936f98727c69c6409521a435ce6288a1792a7107a805825bee78f",
+    "updatedAt": "2025-09-19T18:06:00.665Z"
   }
 }
